@@ -23,4 +23,4 @@ Sphinx is a tool that makes it easy to create intelligent and beautiful document
 
 #####Git
 * .gitignore
-Automaticly generating [.gitignore](www.gitignore.io)
+Automaticly generating [.gitignore](https://www.gitignore.io)
